@@ -1,0 +1,11 @@
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    padding: 10px;
+    background-color: #eef4f8;
+}
+
+.menu a {
+    color: #164f75;
+}
