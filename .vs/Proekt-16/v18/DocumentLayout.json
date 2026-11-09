@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:detergents.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\cleaning.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cleaning.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\washing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:washing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\safety.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:safety.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +52,7 @@
         },
         {
           "DockedWidth": 113,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,13 +64,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "washing.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\washing.html",
+              "RelativeDocumentMoniker": "washing.html",
+              "ToolTip": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\washing.html",
+              "RelativeToolTip": "washing.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-09T17:03:10.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "safety.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\safety.html",
+              "RelativeDocumentMoniker": "safety.html",
+              "ToolTip": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\safety.html",
+              "RelativeToolTip": "safety.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-09T17:01:54.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-09T17:01:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-09T16:58:01.52Z",
               "EditorCaption": ""
@@ -71,20 +122,20 @@
               "RelativeDocumentMoniker": "detergents.html",
               "ToolTip": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\detergents.html",
               "RelativeToolTip": "detergents.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAACdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-09T16:55:35.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "cleaning.html",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\cleaning.html",
               "RelativeDocumentMoniker": "cleaning.html",
               "ToolTip": "C:\\Users\\PC\\Documents\\2026 \u0434\u043E\u043C\u0430\u0441\u0445\u0438\u043D\u0438\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\Proekt-16\\cleaning.html",
               "RelativeToolTip": "cleaning.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-09T16:55:29.947Z",
               "EditorCaption": ""
